@@ -1,0 +1,20 @@
+[
+    {
+        "kode": "B1",
+        "nama": "BUKU",
+        "stok": 15,
+        "harga": 7000
+    },
+    {
+        "kode": "B2",
+        "nama": "PULPEN",
+        "stok": "10",
+        "harga": "5000"
+    },
+    {
+        "kode": "B3",
+        "nama": "PENSIL",
+        "stok": "20",
+        "harga": "3000"
+    }
+]
